@@ -26,7 +26,7 @@ None
 
 ## Grading
 
-Please apply these points to the midterm
+Please apply these points to the project
 
 
 ## Created by 
